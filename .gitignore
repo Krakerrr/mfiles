@@ -1,0 +1,4 @@
+# track only .m files
+*.*
+!*.m
+!.gitignore
